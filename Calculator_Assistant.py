@@ -32,7 +32,7 @@ time.sleep(1.6)
 na=str(input("Enter your name please:"))                #taking_name_as_an_input
 nam=na.capitalize()
 print("                           Thank  You ",nam)    
-print("                   THIS IS A CALCULATOR ASSISTANT MADE BY W                     ")
+print("                   THIS IS A CALCULATOR ASSISTANT MADE BY SHUBHADIP1004                     ")
 time.sleep(4)
 print("                          !!!Are You A Robot!!!                                  ")
 time.sleep(2)
